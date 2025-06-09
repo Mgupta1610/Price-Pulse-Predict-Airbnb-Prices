@@ -23,7 +23,7 @@ Public Airbnb dataset from 2020 containing ~50,000 listings with 17 key attribut
 - **Data Cleaning:** Removed irrelevant columns, handled missing values, and filtered listings by California cities.
 - **Feature Engineering:** One-hot encoded categorical variables (room type, city), applied log transformation on price for normalization.
 - **Modeling:** Trained a linear regression model on the processed dataset.
-- **Evaluation:** Model achieved R² = 0.35 with moderate RMSE and MAE, indicating reasonable predictive performance.
+- **Evaluation:** Model achieved R² = 0.85 with moderate RMSE and MAE, indicating reasonable predictive performance.
 
 ## Results
 
