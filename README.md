@@ -1,6 +1,4 @@
-
-
-
+![Feature Importance](assets/IMAGE_LOGO.jpg)
 
 # Price Pulse: Predicting Airbnb Prices
 
